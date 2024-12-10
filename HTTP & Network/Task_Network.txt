@@ -1,0 +1,16 @@
+(point 1)
+
+1) Client in home and business networks is any computer hardware or software device that requests access to a service offered by a server.
+
+2) A server is a piece of software or hardware (computer program) used in computing that offers functionality to other programs or devices (referred to as "clients") that are used in other applications. 
+
+
+.server is youtube
+.client is browser
+.end user is person who uses the browser(client) to ask the request from server 
+
+------------------------------------------------------------------
+(point 2)
+
+code is 200 ok like video i watched .......i couldn't understand well.
+
